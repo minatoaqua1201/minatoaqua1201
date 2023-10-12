@@ -1,8 +1,6 @@
 import os
 main function{}
-echod
+echo
 
-
-af
 
 return
