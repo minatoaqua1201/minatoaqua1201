@@ -3,7 +3,7 @@ main function{}
 echo
 
 
-
+exit
 
 
 
