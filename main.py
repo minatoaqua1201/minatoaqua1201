@@ -3,6 +3,4 @@ main function{}
 echo
 
 
-
-
 return
